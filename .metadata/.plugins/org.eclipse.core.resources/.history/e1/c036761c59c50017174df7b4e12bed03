@@ -1,0 +1,12 @@
+package br.com.empresa.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class funcionariosController {
+	
+	public String novo() {
+		return "CadastroFuncionario";
+	}
+
+}

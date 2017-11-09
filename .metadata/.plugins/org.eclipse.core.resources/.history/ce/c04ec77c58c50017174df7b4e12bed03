@@ -1,0 +1,9 @@
+package br.com.empresa.controller;
+
+public class funcionariosController {
+	
+	public String novo() {
+		return "CadastroFuncionario";
+	}
+
+}

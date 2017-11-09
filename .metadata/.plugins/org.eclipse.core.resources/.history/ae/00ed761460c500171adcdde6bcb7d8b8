@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf8"></meta>
+		<title>Cadastro de Funcionário</title>
+		<link rel="stylesheet" href="/webjars/bootstrap/4.0.0-alpha/css/bootstrap.min.css"></link>
+		<link rel="stylesheet" href="/webjars/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+	</head>
+	<body>
+		
+		<nav class ="navbar navbar-dark bg-primary">
+		<div class="navbar-header">
+			<a class="navbar-brand" href="#">
+			LOGO
+			</a>
+		</div>
+			
+		</nav>
+		<div class="container">
+			<form action="POST">
+				<div class="form-group row">
+					<label for="cpf" class="col-sm-2">CPF</label>
+					<div class="col-sm-8">
+						<input type="text" id="cpf"> 
+					</div>
+				</div>
+				
+				<div class="form-group row">
+					<label for="Nome" class="col-sm-2">Nome</label>
+					<div class="col-sm-8">
+						<input type="text" id="nome"> 
+					</div>
+				</div>
+				
+				<div class="form-group row">
+					<label for="admissao" class="col-sm-2">Admissão</label>
+					<div class="col-sm-8">
+						<input type="text" id="admissao"> 
+					</div>
+				</div>
+				
+				<div class="form-group row">
+					<label for="admissao" class="col-sm-2">Cargo</label>
+					<div class="col-sm-8">
+						<input type="text" id="admissao"> 
+					</div>
+				</div>
+				
+				
+			</form>
+		</div>
+		
+		
+		
+		<script src="/webjars/jquery/3.2.1/jquery.min.js"></script>
+		<script src="/webjars/bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+		
+	</body>
+	
+</html>
