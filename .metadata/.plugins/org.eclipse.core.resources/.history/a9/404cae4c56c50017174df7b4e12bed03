@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta chaset="utf8">
+		<title>Cadastro de Funcionário</title>
+		<link rel="stylesheet" href="/webjars/bootstrap/4.0.0-alpha/css/bootstrap.min-jsf.css">
+	</head>
+	<body>
+		<nav>
+			
+		</nav>
+	</body>
+	
+</html>

@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\COLCIC\Documents\workspace-sts-3.9.1.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
+1108393166.index
